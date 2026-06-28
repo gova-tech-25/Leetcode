@@ -10,6 +10,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
@@ -20,6 +21,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
@@ -37,5 +39,6 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
