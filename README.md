@@ -13,6 +13,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -25,6 +26,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
@@ -46,9 +48,11 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gova-tech-25/Leetcode/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
+| [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
