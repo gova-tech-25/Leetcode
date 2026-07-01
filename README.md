@@ -50,9 +50,14 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 <!---LeetCode Topics End-->
