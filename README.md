@@ -99,6 +99,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0207-course-schedule](https://github.com/gova-tech-25/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
+| [2924-find-champion-ii](https://github.com/gova-tech-25/Leetcode/tree/master/2924-find-champion-ii) |
 ## Matrix
 |  |
 | ------- |
