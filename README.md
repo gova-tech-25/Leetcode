@@ -76,6 +76,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -88,6 +89,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Union-Find
 |  |
@@ -95,6 +97,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Graph Theory
 |  |
@@ -102,6 +105,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0207-course-schedule](https://github.com/gova-tech-25/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2924-find-champion-ii](https://github.com/gova-tech-25/Leetcode/tree/master/2924-find-champion-ii) |
 ## Matrix
 |  |
