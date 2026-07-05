@@ -58,6 +58,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -67,6 +68,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Topological Sort
@@ -134,4 +137,24 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0207-course-schedule](https://github.com/gova-tech-25/Leetcode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Prefix Sum
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Quickselect
+|  |
+| ------- |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 <!---LeetCode Topics End-->
