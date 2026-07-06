@@ -6,6 +6,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +76,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Hash Table
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Depth-First Search
@@ -93,6 +95,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/gova-tech-25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
@@ -162,4 +165,8 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
