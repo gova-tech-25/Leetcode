@@ -20,6 +20,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
@@ -74,6 +77,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1288-remove-covered-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +139,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2924-find-champion-ii](https://github.com/gova-tech-25/Leetcode/tree/master/2924-find-champion-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +167,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,4 +190,12 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gova-tech-25/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
