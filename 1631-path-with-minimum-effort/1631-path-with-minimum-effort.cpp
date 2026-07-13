@@ -24,12 +24,13 @@ public:
             int diff = it.first;
             int r = it.second.first;
             int c = it.second.second;
+            
+            if(diff > dist[r][c]) continue;
 
             for(int i = 0 ; i < 4 ; i++){
                 int nx = r + dr[i];
                 int ny = c + dc[i];
 
-                if(diff > dist[r][c]) continue;
 
                 if(r == n-1  && c == m-1) return diff;
 
