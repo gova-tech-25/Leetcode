@@ -19,6 +19,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
@@ -103,6 +104,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/gova-tech-25/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
@@ -126,6 +128,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/gova-tech-25/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
@@ -156,6 +159,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0210-course-schedule-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/gova-tech-25/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/gova-tech-25/Leetcode/tree/master/0802-find-eventual-safe-states) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gova-tech-25/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -194,6 +198,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Prefix Sum
@@ -239,4 +244,8 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gova-tech-25/Leetcode/tree/master/1291-sequential-digits) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
