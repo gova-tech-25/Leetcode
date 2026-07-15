@@ -43,6 +43,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gova-tech-25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -237,6 +238,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/gova-tech-25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Search
 |  |
