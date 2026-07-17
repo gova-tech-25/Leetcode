@@ -79,6 +79,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -103,6 +104,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gova-tech-25/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Depth-First Search
 |  |
@@ -232,6 +234,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Quickselect
 |  |
@@ -244,6 +247,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Math
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gova-tech-25/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gova-tech-25/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -259,6 +263,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
@@ -288,6 +293,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/gova-tech-25/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -295,4 +301,12 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
