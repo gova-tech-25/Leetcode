@@ -3,24 +3,30 @@ public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
         int m = grid.size();
         int n = grid[0].size();
-
         int total = m * n;
 
         k %= total;
 
-        vector<vector<int>>ans(m , vector<int>(n));
+        vector<vector<int>> ans(m, vector<int>(n));
 
-        // for(int i = 0 ; i < m ; i++){
-        //     for(int j = 0 ; j < n ; j++){
-        //         int curr = i * m + j;
-        //         int next = ( curr + k ) % total;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int curr = i * n + j;
+                int next = (curr + k) % total;
 
-        //         int r = next / n;
-        //         int c = next % n;
+                ans[next / n][next % n] = grid[i][j];
+            }
+        }
 
-        //         ans[r][c] = grid[i][j];
-        //     }
-        // }
+        return ans;
+    }
+};
+
+class Solution1 {
+public:
+    vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
+        int m = grid.size();
+        int n = grid[0].size();
 
         while (k--) {
             int last = grid[m - 1][n - 1];
