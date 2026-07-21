@@ -14,6 +14,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gova-tech-25/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
@@ -310,6 +311,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/gova-tech-25/Leetcode/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gova-tech-25/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Shortest Path
 |  |
 | ------- |
