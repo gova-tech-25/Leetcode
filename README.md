@@ -86,6 +86,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1109-corporate-flight-bookings](https://github.com/gova-tech-25/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1260-shift-2d-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -274,6 +275,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/gova-tech-25/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
