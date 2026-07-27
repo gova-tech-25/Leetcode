@@ -94,6 +94,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
@@ -120,6 +121,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/gova-tech-25/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -279,6 +281,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Prefix Sum
