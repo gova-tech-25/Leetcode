@@ -78,6 +78,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -267,6 +268,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Bit Manipulation
 |  |
@@ -328,6 +330,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Binary Search
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -402,12 +405,22 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gova-tech-25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
