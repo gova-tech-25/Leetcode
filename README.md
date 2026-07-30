@@ -311,6 +311,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gova-tech-25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
