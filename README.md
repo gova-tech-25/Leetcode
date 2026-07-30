@@ -9,6 +9,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -313,6 +314,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
@@ -385,6 +387,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
