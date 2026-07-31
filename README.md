@@ -95,6 +95,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0827-making-a-large-island](https://github.com/gova-tech-25/Leetcode/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -146,6 +147,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
