@@ -68,6 +68,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -326,6 +327,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
