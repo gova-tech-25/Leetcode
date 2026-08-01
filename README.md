@@ -83,6 +83,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/gova-tech-25/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gova-tech-25/Leetcode/tree/master/0057-insert-interval) |
@@ -331,6 +332,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/gova-tech-25/Leetcode/tree/master/0046-permutations) |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Math
 |  |
