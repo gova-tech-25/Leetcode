@@ -28,6 +28,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -69,6 +70,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -89,6 +91,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
@@ -334,6 +337,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
@@ -464,5 +468,6 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
