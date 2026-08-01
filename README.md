@@ -125,6 +125,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/gova-tech-25/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gova-tech-25/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gova-tech-25/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
