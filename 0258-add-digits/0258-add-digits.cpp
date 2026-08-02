@@ -1,6 +1,13 @@
 class Solution {
 public:
     int addDigits(int num) {
+        return num == 0 ? 0 : (num - 1) % 9 + 1;
+        
+    }
+};
+class Solution1 {
+public:
+    int addDigits(int num) {
         
 
         while(num >= 10){
