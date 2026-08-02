@@ -159,6 +159,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
+| [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -180,6 +181,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0207-course-schedule](https://github.com/gova-tech-25/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
+| [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/gova-tech-25/Leetcode/tree/master/0743-network-delay-time) |
@@ -383,6 +385,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0094-binary-tree-inorder-traversal](https://github.com/gova-tech-25/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gova-tech-25/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -390,6 +393,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0094-binary-tree-inorder-traversal](https://github.com/gova-tech-25/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gova-tech-25/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
 |  |
