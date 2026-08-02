@@ -343,6 +343,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/gova-tech-25/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
@@ -416,6 +417,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gova-tech-25/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gova-tech-25/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -424,6 +426,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gova-tech-25/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
