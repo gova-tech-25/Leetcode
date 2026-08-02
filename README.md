@@ -9,6 +9,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
@@ -44,6 +45,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/gova-tech-25/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -385,6 +387,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0094-binary-tree-inorder-traversal](https://github.com/gova-tech-25/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gova-tech-25/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -393,6 +396,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0094-binary-tree-inorder-traversal](https://github.com/gova-tech-25/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/gova-tech-25/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Enumeration
