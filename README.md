@@ -98,6 +98,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
@@ -165,6 +166,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
+| [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -331,6 +333,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1109-corporate-flight-bookings](https://github.com/gova-tech-25/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
