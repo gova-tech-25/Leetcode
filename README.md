@@ -110,6 +110,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/gova-tech-25/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/gova-tech-25/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/gova-tech-25/Leetcode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -365,6 +366,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/gova-tech-25/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gova-tech-25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
