@@ -94,6 +94,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gova-tech-25/Leetcode/tree/master/0057-insert-interval) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/gova-tech-25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
@@ -398,6 +399,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/gova-tech-25/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
