@@ -88,6 +88,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gova-tech-25/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gova-tech-25/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
@@ -396,6 +397,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/gova-tech-25/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
