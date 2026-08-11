@@ -106,6 +106,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/gova-tech-25/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/gova-tech-25/Leetcode/tree/master/0827-making-a-large-island) |
@@ -343,6 +344,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/gova-tech-25/Leetcode/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/gova-tech-25/Leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
