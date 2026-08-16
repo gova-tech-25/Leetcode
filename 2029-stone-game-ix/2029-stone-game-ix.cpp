@@ -15,6 +15,31 @@ public:
     }
 };
 
+        //                  Start
+        //                    |
+        //                    ↓
+        //          Count remainders
+        //                    |
+        //       ┌────────────┼────────────┐
+        //       ↓            ↓            ↓
+        //    cnt[0]       cnt[1]       cnt[2]
+        //  x % 3 == 0   x % 3 == 1   x % 3 == 2
+        //                    |
+        //                    ↓
+        //           Is cnt[0] even?
+        //              /          \
+        //            YES           NO
+        //             |             |
+        //             ↓             ↓
+        //   min(cnt[1],cnt[2])   abs(cnt[1]-cnt[2])
+        //           > 0?                > 2?
+        //         /     \             /     \
+        //       YES      NO         YES      NO
+        //        |        |          |        |
+        //        ↓        ↓          ↓        ↓
+        //     Alice     Bob        Alice      Bob
+        //      wins      wins        wins      wins
+
 class Solution1 {
 public:
     bool stoneGameIX(vector<int>& stones) {
