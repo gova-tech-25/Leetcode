@@ -64,6 +64,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gova-tech-25/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -136,6 +137,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gova-tech-25/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gova-tech-25/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gova-tech-25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -384,6 +386,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gova-tech-25/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gova-tech-25/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -477,6 +480,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -524,6 +528,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -532,4 +537,16 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
