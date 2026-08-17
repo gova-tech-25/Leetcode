@@ -140,6 +140,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gova-tech-25/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gova-tech-25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
@@ -190,6 +191,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gova-tech-25/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -408,6 +410,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gova-tech-25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/gova-tech-25/Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/gova-tech-25/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
