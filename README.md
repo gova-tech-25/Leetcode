@@ -65,6 +65,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1323-maximum-69-number](https://github.com/gova-tech-25/Leetcode/tree/master/1323-maximum-69-number) |
 | [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gova-tech-25/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -387,6 +388,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/gova-tech-25/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/gova-tech-25/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1323-maximum-69-number](https://github.com/gova-tech-25/Leetcode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/gova-tech-25/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
