@@ -32,6 +32,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/gova-tech-25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0152-maximum-product-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
@@ -105,6 +106,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0119-pascals-triangle-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/gova-tech-25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
