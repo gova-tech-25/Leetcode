@@ -52,6 +52,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0143-reorder-list](https://github.com/gova-tech-25/Leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0503-next-greater-element-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -90,6 +91,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0503-next-greater-element-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -114,6 +116,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
+| [0503-next-greater-element-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
