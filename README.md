@@ -66,6 +66,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0910-smallest-range-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0910-smallest-range-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/gova-tech-25/Leetcode/tree/master/1323-maximum-69-number) |
+| [1386-cinema-seat-allocation](https://github.com/gova-tech-25/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gova-tech-25/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -132,6 +133,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1386-cinema-seat-allocation](https://github.com/gova-tech-25/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -190,6 +192,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gova-tech-25/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/gova-tech-25/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gova-tech-25/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -339,6 +342,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0231-power-of-two](https://github.com/gova-tech-25/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/gova-tech-25/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gova-tech-25/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
