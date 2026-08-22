@@ -130,6 +130,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0692-top-k-frequent-words](https://github.com/gova-tech-25/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/gova-tech-25/Leetcode/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 | [0733-flood-fill](https://github.com/gova-tech-25/Leetcode/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0821-shortest-distance-to-a-character](https://github.com/gova-tech-25/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -450,6 +451,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 | [0778-swim-in-rising-water](https://github.com/gova-tech-25/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gova-tech-25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -537,6 +539,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -547,6 +550,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -559,6 +563,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 ## Game Theory
 |  |
 | ------- |
