@@ -85,6 +85,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gova-tech-25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/gova-tech-25/Leetcode/tree/master/0143-reorder-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gova-tech-25/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
