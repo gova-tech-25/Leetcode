@@ -183,6 +183,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3842-toggle-light-bulbs](https://github.com/gova-tech-25/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/gova-tech-25/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -399,6 +400,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gova-tech-25/Leetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
 | ------- |
