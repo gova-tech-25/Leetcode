@@ -15,6 +15,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0692-top-k-frequent-words](https://github.com/gova-tech-25/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
 | [0821-shortest-distance-to-a-character](https://github.com/gova-tech-25/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0940-distinct-subsequences-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/gova-tech-25/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -42,6 +43,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0678-valid-parenthesis-string](https://github.com/gova-tech-25/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gova-tech-25/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/gova-tech-25/Leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/gova-tech-25/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/gova-tech-25/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/gova-tech-25/Leetcode/tree/master/1406-stone-game-iii) |
