@@ -110,6 +110,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0033-search-in-rotated-sorted-array](https://github.com/gova-tech-25/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gova-tech-25/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/gova-tech-25/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/gova-tech-25/Leetcode/tree/master/0057-insert-interval) |
@@ -189,6 +190,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/gova-tech-25/Leetcode/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -412,6 +414,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0046-permutations](https://github.com/gova-tech-25/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0047-permutations-ii) |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Math
 |  |
