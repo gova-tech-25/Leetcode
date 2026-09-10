@@ -259,6 +259,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1319-number-of-operations-to-make-network-connected](https://github.com/gova-tech-25/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/gova-tech-25/Leetcode/tree/master/1905-count-sub-islands) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gova-tech-25/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gova-tech-25/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/gova-tech-25/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -480,6 +481,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gova-tech-25/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -489,6 +491,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/gova-tech-25/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
