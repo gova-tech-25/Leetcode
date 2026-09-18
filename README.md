@@ -8,6 +8,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gova-tech-25/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0316-remove-duplicate-letters](https://github.com/gova-tech-25/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/gova-tech-25/Leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
@@ -249,6 +250,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/gova-tech-25/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gova-tech-25/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0721-accounts-merge](https://github.com/gova-tech-25/Leetcode/tree/master/0721-accounts-merge) |
@@ -567,6 +569,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Design
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gova-tech-25/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
 ## Binary Indexed Tree
@@ -636,6 +639,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Trie
 |  |
 | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/gova-tech-25/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/gova-tech-25/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Longest Increasing Subsequence
 |  |
