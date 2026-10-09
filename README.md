@@ -25,6 +25,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/gova-tech-25/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/gova-tech-25/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gova-tech-25/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gova-tech-25/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -77,6 +78,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gova-tech-25/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Greedy
 |  |
@@ -93,6 +95,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/gova-tech-25/Leetcode/tree/master/1323-maximum-69-number) |
 | [1386-cinema-seat-allocation](https://github.com/gova-tech-25/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2029-stone-game-ix](https://github.com/gova-tech-25/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gova-tech-25/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/gova-tech-25/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -683,4 +686,5 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0856-score-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gova-tech-25/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
