@@ -7,6 +7,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
@@ -487,6 +488,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gova-tech-25/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0143-reorder-list](https://github.com/gova-tech-25/Leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/gova-tech-25/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0821-shortest-distance-to-a-character](https://github.com/gova-tech-25/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
@@ -687,4 +689,20 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gova-tech-25/Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
