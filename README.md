@@ -148,6 +148,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0435-non-overlapping-intervals](https://github.com/gova-tech-25/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gova-tech-25/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gova-tech-25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/gova-tech-25/Leetcode/tree/master/0542-01-matrix) |
@@ -452,6 +453,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0258-add-digits](https://github.com/gova-tech-25/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/gova-tech-25/Leetcode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/gova-tech-25/Leetcode/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gova-tech-25/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/gova-tech-25/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/gova-tech-25/Leetcode/tree/master/0728-self-dividing-numbers) |
