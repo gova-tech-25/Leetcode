@@ -193,6 +193,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gova-tech-25/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/gova-tech-25/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gova-tech-25/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/gova-tech-25/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
@@ -232,6 +233,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gova-tech-25/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gova-tech-25/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -257,6 +259,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gova-tech-25/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/gova-tech-25/Leetcode/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -684,6 +687,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Bracket Sequences
 |  |
 | ------- |
