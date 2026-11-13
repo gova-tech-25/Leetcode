@@ -81,6 +81,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gova-tech-25/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/gova-tech-25/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0503-next-greater-element-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gova-tech-25/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/gova-tech-25/Leetcode/tree/master/2487-remove-nodes-from-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Array
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/gova-tech-25/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gova-tech-25/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/gova-tech-25/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -616,6 +619,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0307-range-sum-query-mutable](https://github.com/gova-tech-25/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gova-tech-25/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0729-my-calendar-i](https://github.com/gova-tech-25/Leetcode/tree/master/0729-my-calendar-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting Sort
 |  |
 | ------- |
@@ -688,6 +692,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -713,4 +718,12 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gova-tech-25/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
