@@ -201,6 +201,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3238-find-the-number-of-winning-players](https://github.com/gova-tech-25/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gova-tech-25/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3392-count-subarrays-of-length-three-with-a-condition](https://github.com/gova-tech-25/Leetcode/tree/master/3392-count-subarrays-of-length-three-with-a-condition) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/gova-tech-25/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -440,6 +441,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1872-stone-game-viii](https://github.com/gova-tech-25/Leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gova-tech-25/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3903-smallest-stable-index-i](https://github.com/gova-tech-25/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -692,6 +694,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/gova-tech-25/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/gova-tech-25/Leetcode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/gova-tech-25/Leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
