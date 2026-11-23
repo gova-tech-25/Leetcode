@@ -141,6 +141,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/gova-tech-25/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/gova-tech-25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gova-tech-25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/gova-tech-25/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/gova-tech-25/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -252,6 +253,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | ------- |
 | [0126-word-ladder-ii](https://github.com/gova-tech-25/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/gova-tech-25/Leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/gova-tech-25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/gova-tech-25/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/gova-tech-25/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0692-top-k-frequent-words](https://github.com/gova-tech-25/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -340,6 +342,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/gova-tech-25/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/gova-tech-25/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/gova-tech-25/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/gova-tech-25/Leetcode/tree/master/0547-number-of-provinces) |
