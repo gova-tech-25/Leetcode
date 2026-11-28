@@ -105,6 +105,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gova-tech-25/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +222,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/gova-tech-25/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -248,6 +250,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [3731-find-missing-elements](https://github.com/gova-tech-25/Leetcode/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/gova-tech-25/Leetcode/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/gova-tech-25/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -435,6 +438,7 @@ Auto-synced LeetCode solutions via LeetHub — C++ DSA practice
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gova-tech-25/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/gova-tech-25/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/gova-tech-25/Leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/gova-tech-25/Leetcode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
